@@ -132,5 +132,5 @@ if __name__ == '__main__':
     #用copy 这是引用传递
     imgg4 = deal_area1(imgg3.copy(),featurex,featurey)
     #保存图片
-    mpimg.imsave('new-'+PATH,imgg4)
+    mpimg.imsave('new_'+PATH,imgg4)
     print('图片处理成功！')
