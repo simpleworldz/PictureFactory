@@ -1,4 +1,4 @@
-# Picture-Factory
+# PictureFactory
 将网上下载的几张带斜纹水印的图片去除水印  
 
 处理前  
