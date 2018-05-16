@@ -6,4 +6,4 @@
 
 处理后  
   
-![photo](./PictureFactory/new_html.png
+![photo](./PictureFactory/new_html.png)
